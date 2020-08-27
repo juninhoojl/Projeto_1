@@ -1,10 +1,10 @@
 //
 //  main.c
-//  Projeto_1
-//
-//  Created by José Luiz Junior on 27/08/20.
-//  Copyright © 2020 José Luiz Junior. All rights reserved.
-//
+//  27/08/20
+//  Disciplina: CIC110 - Análise e Projeto de Algoritmos I
+//  Grupo: José Luiz Junior e Isabela Corsi
+//  Entrega ate dia
+//  Prazo de Entrega: 16/09/2020 23:59:59
 
 #include <stdio.h>
 
